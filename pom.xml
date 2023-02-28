@@ -77,7 +77,7 @@
 		</repository>
 	</repositories>
 
-	<pluginRepositories>
+	<!-- <pluginRepositories>
 		<pluginRepository>
 			<id>mulesoft-releases</id>
 			<name>MuleSoft Releases Repository</name>
@@ -91,6 +91,6 @@
 		    <id>mule-public</id>
 		    <url>https://repository.mulesoft.org/nexus/content/repositories/releases</url>
 		</pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories> -->
 
 </project>
