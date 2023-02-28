@@ -64,6 +64,12 @@
 
 	<repositories>
 		<repository>
+			<id>Nexus</id>
+			<name>Nexus Public Repository</name>
+			<url>https://repository-master.mulesoft.org/nexus/content/groups/public/</url>
+			<layout>default</layout>
+		</repository>
+		<repository>
 			<id>anypoint-exchange-v3</id>
 			<name>Anypoint Exchange</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
